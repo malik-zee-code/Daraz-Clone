@@ -1,0 +1,25 @@
+.navbar {
+  width: 100%;
+  background-color: #ececec;
+  padding: 5px 0 5px 0;
+  position: fixed;
+  z-index: 99;
+}
+.nav__lists {
+  display: flex;
+  justify-content: center;
+}
+li {
+  list-style: none;
+  font-size: 11px;
+  text-transform: uppercase;
+  margin-left: 27px;
+}
+
+.nav_link {
+  text-decoration: none !important;
+  color: rgb(57, 55, 55);
+}
+.nav_link:hover {
+  color: #f57224;
+}

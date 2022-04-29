@@ -1,0 +1,22 @@
+.regional__Container {
+  background-color: #f5f5f5;
+  padding-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.channels__list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 70%;
+  margin-top: 50px;
+  padding-bottom: 20px;
+}
+.countDownContent{
+  object-fit: contain;
+}

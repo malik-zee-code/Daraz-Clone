@@ -1,0 +1,22 @@
+.btn__custom__link {
+  padding: 16px 3pc 16px 1pc;
+  color: black;
+  font-weight: 500;
+  border-radius: 1rem;
+  background-color: white;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+}
+.btn__custom__link:hover {
+  box-shadow: 1px 1px 16px 3px #ccc;
+}
+.btn__icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 3rem;
+}
+.anchor {
+  text-decoration: none !important;
+  color: black;
+}
